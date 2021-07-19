@@ -4,4 +4,4 @@
 - 📅 I’m currently 14 years old
 - 📚 I’m currently learning javascript, html and css
 
-![VictorrLK's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrLK&show_icons=true&theme=dark)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorrLK&show_icons=true&theme=dark)
