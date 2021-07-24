@@ -16,4 +16,3 @@ Hello, my name is Victor Menezes, here you will find one of the greatest passion
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/853092872990621757)
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:victormeenezes2007@icloud.com?subject=Hello%22)
- 
