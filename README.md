@@ -4,6 +4,7 @@ Hello, my name is Victor Menezes, here you will find one of the greatest passion
 
 ## Technologies
 
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-003545?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Contributions
